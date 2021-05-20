@@ -32,3 +32,19 @@ Education:
     Place: West Virginia University
     Date: Sep 2006 - Dec 2013
     Details: Specialized in Cyber Security
+
+Skills:
+  - Family: Programming
+    Items:
+      - Kubernetes
+      - Istio
+      - Helm
+      - Golang
+      - Java
+      - Vim
+  - Family: Developer Tools
+    Items:
+      - Git
+      - GitLab
+      - Docker
+      - GCP
