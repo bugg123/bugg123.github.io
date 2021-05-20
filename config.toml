@@ -2,3 +2,13 @@ baseURL = "http://chinkle.dev/"
 languageCode = "en-us"
 title = "Corey Hinkle CV"
 theme = "almeida"
+
+[params]
+colorDark = "#666"
+colorLight = "#b3b3b3"
+colorPageBackground = "#2e2e2e"
+colorPrimary = "#b4d273"
+colorPrimaryText = "#666"
+colorRightColumnBackground = "#404040"
+colorSecondary = "#666"
+pages = 1
