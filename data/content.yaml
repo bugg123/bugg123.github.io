@@ -1,0 +1,34 @@
+BasicInfo:
+  FirstName: Corey
+  LastName: Hinkle
+  Photo: img/avatar.jpg
+  Contacts:
+  - Icon: fas fa-phone
+    Info: +1 304 669 7062
+  - Icon: fas fa-envelope
+    Info: coreyhinkle@gmail.com
+  - Icon: fas fa-globe
+    Info: chinkle.dev
+  - Icon: fas fa-map-marker-alt
+    Info: West Virginia
+
+Profile: TODO
+
+Experience:
+  - Employer: Five9
+    Place: San Ramon, CA
+    Positions:
+    - Title: Senior DevOps Engineer
+      Date: Mar 2020 - Present
+      Details:
+        - Maintain and create Terraform modules to standup GCP Infrastructure
+        - Help and teach team members unfamiliar technologies, for example Kubernetes and Istio
+        - Investigate and compare newer technologies with possiblity of production use
+        - Develop and maintain production docker images and Golang microservices
+      Badges: ['Golang', 'Terraform', 'GCP', 'Kubernetes', 'Helm']
+
+Education:
+  - Course: BSc in Computer Engineering & MSc in Electrical Engineering
+    Place: West Virginia University
+    Date: Sep 2006 - Dec 2013
+    Details: Specialized in Cyber Security

@@ -1,0 +1,4 @@
+baseURL = "http://chinkle.dev/"
+languageCode = "en-us"
+title = "Corey Hinkle CV"
+theme = "almeida"
