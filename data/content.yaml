@@ -3,8 +3,8 @@ BasicInfo:
   LastName: Hinkle
   Photo: img/avatar.jpg
   Contacts:
-  - Icon: fas fa-phone
-    Info: +1 304 669 7062
+  # - Icon: fas fa-phone
+  #   Info: +1 555 555 5555
   - Icon: fas fa-envelope
     Info: coreyhinkle@gmail.com
   - Icon: fas fa-globe
@@ -25,7 +25,22 @@ Experience:
         - Help and teach team members unfamiliar technologies, for example Kubernetes and Istio
         - Investigate and compare newer technologies with possiblity of production use
         - Develop and maintain production docker images and Golang microservices
-      Badges: ['Golang', 'Terraform', 'GCP', 'Kubernetes', 'Helm']
+      Badges: ['Golang', 'Terraform', 'GCP', 'Kubernetes', 'Helm', 'Operator']
+  - Employer: Leidos
+    Place: Reston, VA
+    Positions:
+      - Title: Core Platform Team Lead
+        Date: Jan 2019 - Mar 2020
+        Details:
+          - Transition teams to deploying and debugging in Kubernetes
+          - Developed reusable Terraform modules with testing via Terratest
+          - Leveraged Kubernetes and Istio to be more cloud agnostic from AWS
+          - Implemented Helm charts to help with consistent deployments with logging and metrics
+        Badges: ['Terraform', 'AWS', 'Kubernetes', 'Helm', 'Java', 'Skaffold', 'Docker']
+      - Title: Chief Engineer
+        Date: Jul 2015 - Jul 2019
+      - Title: Junior Software Engineer
+        Date: Jan 2014 - Jul 2015
 
 Education:
   - Course: BSc in Computer Engineering & MSc in Electrical Engineering
@@ -46,5 +61,6 @@ Skills:
     Items:
       - Git
       - GitLab
+      - Telepresence
       - Docker
       - GCP
