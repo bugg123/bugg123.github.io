@@ -12,7 +12,7 @@ BasicInfo:
   - Icon: fas fa-map-marker-alt
     Info: West Virginia
 
-Profile: TODO
+Profile: I'm a developer who loves learning and continually trying to make things better.  I have a lot of interest in developer experience and helping them get their software to cloud quickly and more easily.  I continually try to find or create tools to automate and speed up those processes.  I love open source software and the community around it. I would like to become more involved and am seeking opportunities the may facilitate that. 
 
 Experience:
   - Employer: Five9
@@ -25,6 +25,7 @@ Experience:
         - Help and teach team members unfamiliar technologies, for example Kubernetes and Istio
         - Investigate and compare newer technologies with possiblity of production use
         - Develop and maintain production docker images and Golang microservices
+        - Create and test Kubernetes Operators to ease and automate environments
       Badges: ['Golang', 'Terraform', 'GCP', 'Kubernetes', 'Helm', 'Operator']
   - Employer: Leidos
     Place: Reston, VA
@@ -39,6 +40,9 @@ Experience:
         Badges: ['Terraform', 'AWS', 'Kubernetes', 'Helm', 'Java', 'Skaffold', 'Docker']
       - Title: Chief Engineer
         Date: Jul 2015 - Jul 2019
+        Details:
+          - Lead multiple Air Force contracts and worked through test events
+          - Helped drive requirements and communication with warfighters
       - Title: Junior Software Engineer
         Date: Jan 2014 - Jul 2015
 
