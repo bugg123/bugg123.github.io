@@ -8,11 +8,11 @@ BasicInfo:
   - Icon: fas fa-envelope
     Info: coreyhinkle@gmail.com
   - Icon: fas fa-globe
-    Info: chinkle.dev
+    Info: cv.chinkle.dev
   - Icon: fas fa-map-marker-alt
     Info: West Virginia
 
-Profile: I'm a developer who loves learning and continually trying to make things better.  I have a lot of interest in developer experience and helping them get their software to cloud quickly and more easily.  I continually try to find or create tools to automate and speed up those processes.  I love open source software and the community around it. I would like to become more involved and am seeking opportunities the may facilitate that. 
+Profile: I'm a developer who loves learning and continually trying to make things better.  I have a lot of interest in developer experience and helping them get their software to cloud quickly and more easily.  I continually try to find or create tools to automate and speed up those processes.  I love open source software and the community around it. I would like to become more involved and would value opportunities that embrace those communities. 
 
 Experience:
   - Employer: Five9
@@ -65,6 +65,7 @@ Skills:
     Items:
       - Git
       - GitLab
+      - ArgoCD
       - Telepresence
       - Docker
       - GCP
