@@ -26,6 +26,8 @@ Experience:
         - Investigate and compare newer technologies with possiblity of production use
         - Develop and maintain production docker images and Golang microservices
         - Create and test Kubernetes Operators to ease and automate environments
+        - Rework network routing to be more easily understood and scalable
+        - Leverage ArgoCD and Gitlab to move closer towards Gitops
       Badges: ['Golang', 'Terraform', 'GCP', 'Kubernetes', 'Helm', 'Operator']
   - Employer: Leidos
     Place: Reston, VA
@@ -43,6 +45,7 @@ Experience:
         Details:
           - Lead multiple Air Force contracts and worked through test events
           - Helped drive requirements and communication with warfighters
+          - Developed Java applications to ease warfighters responsibilities
       - Title: Junior Software Engineer
         Date: Jan 2014 - Jul 2015
 
