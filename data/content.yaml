@@ -21,13 +21,13 @@ Experience:
     - Title: Senior DevOps Engineer
       Date: Mar 2020 - Present
       Details:
-        - Maintain and create Terraform modules to standup GCP Infrastructure
-        - Help and teach team members unfamiliar technologies, for example Kubernetes and Istio
-        - Investigate and compare newer technologies with possiblity of production use
-        - Develop and maintain production docker images and Golang microservices
-        - Create and test Kubernetes Operators to ease and automate environments
-        - Rework network routing to be more easily understood and scalable
-        - Leverage ArgoCD and Gitlab to move closer towards Gitops
+        - Create and maintain a completely new infrastructure process that moves everything to a modular approach that can be versioned and automated using Terraform.
+        - Help teach developers and operations alike how to utilize common cloud tools including Kubernetes and Istio. Lead demos instructing users on best practices and common patterns.
+        - Investigate and compare newer technologies with the possibility of production use. Helped adopt ArgoCD, and moved deployments to be monitored with more informative changes.
+        - Develop and maintain production docker images and Go services. Created a tested slackbot that sped up developer debugging with automated permissions approval workflow.
+        - Created a Kubernetes Operator in Go that completely automates the standing up of developer environments, allowing developers to have experiences much closer to production deployments for the first time.
+        - Completely revamped network routing to be more easily accessed while also deprecating unnecessary rules. Automated their deployment and allowed instant configuration upon system changes.
+        - Leverage ArgoCD and Gitlab to move closer towards Gitops. Allowing for much quicker deployments on merge requests, which provide informative results to changes and progress.
       Badges: ['Golang', 'Terraform', 'GCP', 'Kubernetes', 'Helm', 'Operator']
   - Employer: Leidos
     Place: Reston, VA
@@ -35,17 +35,17 @@ Experience:
       - Title: Core Platform Team Lead
         Date: Jan 2019 - Mar 2020
         Details:
-          - Transition teams to deploying and debugging in Kubernetes
-          - Developed reusable Terraform modules with testing via Terratest
-          - Leveraged Kubernetes and Istio to be more cloud agnostic from AWS
-          - Implemented Helm charts to help with consistent deployments with logging and metrics
+          - Transitioned teams to deploying and debugging in Kubernetes. Helped developers learn concepts and develop reusable charts, as well as empowered them to make better decisions. Discussed and demoed multiple tools (including Telepresence) to allow for quicker debugging and turnaround.
+          - Developed reusable Terraform modules with testing via Terratest, completely revamping from undependable bash scripts. Allowed for test coverage and repeatable deployments.
+          - Leveraged Kubernetes and Istio to be more cloud agnostic from AWS.
+          - Implemented Helm charts to help with consistent deployments containing default logging and metrics.
         Badges: ['Terraform', 'AWS', 'Kubernetes', 'Helm', 'Java', 'Skaffold', 'Docker']
       - Title: Chief Engineer
         Date: Jul 2015 - Jul 2019
         Details:
-          - Lead multiple Air Force contracts and worked through test events
-          - Helped drive requirements and communication with warfighters
-          - Developed Java applications to ease warfighters responsibilities
+          - Led multiple Air Force contracts and worked through test events. Helped lay out and create real world test cases to validate products.
+          - Helped drive requirements and communication with warfighters. Clarified technical decisions while applying their needs to develop software that was intuitive and accomplished complex goals.
+          - Developed Java applications to ease warfighters responsibilities. Managed to turn multi-day tasks into tasks that took seconds.
       - Title: Junior Software Engineer
         Date: Jan 2014 - Jul 2015
 
